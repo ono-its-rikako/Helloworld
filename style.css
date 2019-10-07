@@ -1,5 +1,5 @@
 body{
-    background-color:#1a6b5f;
+    background-color:#883072;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 section{
@@ -10,7 +10,7 @@ section{
     height:400px;
     overflow: scroll;
     text-align: left;
-    box-shadow: 5px 5px black;
+    box-shadow: 10px 10px black;
 }
 #filler{
     width: 65%;
@@ -22,7 +22,7 @@ section{
     float:right;
     position: -webkit- sticky;
     position: sticky;
-    top:1%;
+    top:5%;
     margin: 10px 5px 10px 5px;
     padding: 15px 10px 15px 10px;
     width:20%;
